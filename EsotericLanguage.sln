@@ -4,6 +4,10 @@ Microsoft Visual Studio Solution File, Format Version 10.00
 # SharpDevelop 3.2.0.5505
 Project("{982E8BC1-ACD7-4dbf-96AB-B2CE67D6A008}") = "HQ9Plus", "HQ9Plus\HQ9Plus.fsproj", "{31D65590-0A74-47F0-B1E7-CF998659B7E7}"
 EndProject
+Project("{982E8BC1-ACD7-4dbf-96AB-B2CE67D6A008}") = "Whitespace", "Whitespace\Whitespace.fsproj", "{C48EB3F2-7B2E-4CCB-A6A1-E43AE330FAEF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Whitespace.Test", "Whitespace.Test\Whitespace.Test.csproj", "{E3351ACB-DF6F-4E8C-B81C-26EEB8682E4E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -14,5 +18,13 @@ Global
 		{31D65590-0A74-47F0-B1E7-CF998659B7E7}.Debug|x86.ActiveCfg = Debug|x86
 		{31D65590-0A74-47F0-B1E7-CF998659B7E7}.Release|x86.Build.0 = Release|x86
 		{31D65590-0A74-47F0-B1E7-CF998659B7E7}.Release|x86.ActiveCfg = Release|x86
+		{C48EB3F2-7B2E-4CCB-A6A1-E43AE330FAEF}.Debug|x86.Build.0 = Debug|x86
+		{C48EB3F2-7B2E-4CCB-A6A1-E43AE330FAEF}.Debug|x86.ActiveCfg = Debug|x86
+		{C48EB3F2-7B2E-4CCB-A6A1-E43AE330FAEF}.Release|x86.Build.0 = Release|x86
+		{C48EB3F2-7B2E-4CCB-A6A1-E43AE330FAEF}.Release|x86.ActiveCfg = Release|x86
+		{E3351ACB-DF6F-4E8C-B81C-26EEB8682E4E}.Debug|x86.Build.0 = Debug|x86
+		{E3351ACB-DF6F-4E8C-B81C-26EEB8682E4E}.Debug|x86.ActiveCfg = Debug|x86
+		{E3351ACB-DF6F-4E8C-B81C-26EEB8682E4E}.Release|x86.Build.0 = Release|x86
+		{E3351ACB-DF6F-4E8C-B81C-26EEB8682E4E}.Release|x86.ActiveCfg = Release|x86
 	EndGlobalSection
 EndGlobal
